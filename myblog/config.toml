@@ -39,6 +39,12 @@ theme="hugo-theme-terminal"
   # it's set to `true` by default
   # oneHeadingSize = false
 
+  github = "https://github.com/somesh-banerjee"
+  email = "somesh0banerjee@gmail.com"
+  opengraph = true
+  shareTwitter = true
+  dateFormat = "Mon, Jan 2, 2006"
+
 
 [params.twitter]
   # set Twitter handles for Twitter cards
@@ -67,8 +73,8 @@ theme="hugo-theme-terminal"
       logoText = "Somesh's Blog"
       logoHomeLink = "/"
 
-#    [languages.en.menu]
-#      [[languages.en.menu.main]]
-#        identifier = "about"
-#        name = "About"
-#        url = "/about"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "https://somesh-banerjee.github.io/"
