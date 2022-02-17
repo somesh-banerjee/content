@@ -6,7 +6,7 @@ authorTwitter = "banerjee_somesh"
 cover = ""
 tags = ["InfoSec", "HackTheBox"]
 keywords = ["Linux", "knife", "RCE", "GTFObins"]
-description = "Solution to own HackTheBox Machine Knife(Linux,Easy, 20 points)"
+description = "Solution to own HackTheBox Machine Knife (Linux, Easy, 20 points)"
 showFullContent = false
 readingTime = true
 +++

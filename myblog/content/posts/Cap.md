@@ -1,6 +1,6 @@
 +++
 title = "Cap"
-date = "2022-02-17T13:27:14+05:30"
+date = "2021-10-03T13:26:55+05:30"
 author = "Somesh Banerjee"
 authorTwitter = "banerjee_somesh"
 cover = ""
@@ -9,5 +9,8 @@ keywords = ["Linux", "", ""]
 description = ""
 showFullContent = false
 readingTime = true
-draft = false
+draft = true
 +++
+OS: Linux\
+Points: 20\
+Difficulty: Easy
