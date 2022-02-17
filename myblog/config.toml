@@ -71,7 +71,7 @@ theme="hugo-theme-terminal"
 
     [languages.en.params.logo]
       logoText = "Somesh's Blog"
-      logoHomeLink = "/"
+      logoHomeLink = "/blogs/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
