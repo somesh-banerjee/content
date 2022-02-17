@@ -2,7 +2,7 @@
 title = "Log4shell"
 date = "2022-01-14T17:25:22+05:30"
 author = "Somesh Banerjee"
-authorTwitter = "somesh-banerjee"
+authorTwitter = "banerjee_somesh"
 cover = ""
 tags = ["InfoSec", "CVE"]
 keywords = ["log4shell", "CVE-2021-44228", "log4j"]
