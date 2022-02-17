@@ -9,4 +9,5 @@ keywords = ["Linux", "", ""]
 description = ""
 showFullContent = false
 readingTime = true
+draft = false
 +++
