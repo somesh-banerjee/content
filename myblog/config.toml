@@ -15,7 +15,7 @@ theme="hugo-theme-terminal"
   showLanguageSelector = false
 
   # set theme to full screen width
-  fullWidthTheme = false
+  fullWidthTheme = true
 
   # center theme with default width
   centerTheme = false
@@ -57,7 +57,7 @@ theme="hugo-theme-terminal"
   [languages.en]
     languageName = "English"
     title = "Somesh's Blog"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "A simple blog site by Somesh"
     owner = "somesh-banerjee"
     keywords = ""
     copyright = ""
