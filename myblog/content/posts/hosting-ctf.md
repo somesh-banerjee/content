@@ -56,7 +56,7 @@ That's it, now your platform will be running in port 80 and 8080. You can test i
 
 Now you need the rest of the setup from the platform. The guide for that setup is available at the Repo.
 
-The basic requirement for the platform is covered. But if you are hosting it at a global level, then you need to implement security feature like Rate limiting and Firewall to the server. You also need the get a domain for your IP from GoDaddy or somewhere else.
+The basic requirement for the platform is covered. But if you are hosting it at a global level, then you need to implement security feature like Rate limiting and Firewall to the server. You also need the get a domain for your IP from GoDaddy or somewhere else. You can check this [article](https://medium.com/csictf/self-hosting-a-ctf-platform-ctfd-90f3f1611587) for more. 
 
 # Firewall Setup
 
