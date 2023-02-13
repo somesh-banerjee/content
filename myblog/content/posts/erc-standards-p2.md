@@ -10,7 +10,6 @@ description = ""
 showFullContent = false
 readingTime = true
 hideComments = false
-draft = true
 +++
 
 In my last [post](../erc-standards) on ERC standards, I discussed the basic ERC standards like ERC20, ERC721, ERC1155, etc. In this post, I will go over some more ERC standards finalized by the community.
