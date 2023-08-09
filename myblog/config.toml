@@ -1,7 +1,7 @@
 baseURL = "https://somesh-banerjee.github.io/blogs/"
 languageCode = "en-us"
 title = "Somesh's Blog"
-theme="hugo-theme-terminal"
+theme="terminal"
 
 [params]
 
